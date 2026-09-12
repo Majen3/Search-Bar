@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: wheat;
+    background-color: brown;   
+    height: 50vh;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Clash Display', sans-serif;
+}
+.contain {
+    display: inline-flex;
+    position: relative;
+}
+
+#search_bar {
+    height: 35px;
+    font-size: 14px;
+    border: 2px black solid;
+    border-radius:10px 0px  0px 10px ;
+    padding-left: 10px;
+}
+
+.sec1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    width: 50px;
+    height: 37px;
+    border-radius: 0 20px 20px 0;
+    border: 2px black solid;
+    cursor: pointer;
+}
+
+.sec2:hover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    width: 50px;
+    height: 37px;
+    border-radius: 0 20px 20px 0;
+    border: 2px gray solid;
+    cursor: pointer;
+    transition: 1.5s ease;
+}
+
+.sec3 {
+    position: absolute;
+    display: inline;
+    top: 185px;
+    width: 250px;
+    height: 400px;
+    background-color: black;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+
+}

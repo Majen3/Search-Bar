@@ -1,0 +1,26 @@
+const myFiles = [
+    {name : "ColdCaller_Universal.pdf"},
+    {name: "Customer_Service_Resume.pdf"},
+    {name : "Data_Analyst_Resume(1).pdf"},
+    {name: "orderly resume.pdf"},
+    {name : "PM ASSIGNNMENT 1.pdf"},
+    {name: "TechSupport_Contractor.pdf"},
+    {name : "VA RESUME.pdf"},
+    {name: "music (1).mp3"},
+    {name: "music (2).mp3"},
+    {name: "music (3).mp3"},
+    {name: "music (4).mp3"},
+    {name: "music (5).mp3"},
+    {name: "music (6).mp3"},
+    {name: "music (7).mp3"},
+    {name: "music (8).mp3"},
+    {name: "1 (1).jpg"},
+    {name: "1 (2).jpg"},
+    {name: "1 (3).jpg"},
+    {name: "1 (4).jpg"},
+    {name: "1 (5).jpg"},
+    {name: "1 (6).jpg"},
+    {name: "1 (7).jpg"},
+    {name: "1 (8).jpg"}
+
+];
