@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     color: wheat;
-    background-color: brown;   
+    background-color: #052a3d;   
     height: 50vh;
     width: 100%;
     margin: 0px;
@@ -33,7 +33,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: azure;
+    background-color: #117192;
     width: 50px;
     height: 37px;
     border-radius: 0 20px 20px 0;
@@ -45,7 +45,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: azure;
+    background-color: #b3cdd7;
     width: 50px;
     height: 37px;
     border-radius: 0 20px 20px 0;
